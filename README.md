@@ -29,6 +29,7 @@ Welcome to my GitHub profile, a place where I showcase my passion for building, 
 * **💬 Ask me about**: Laravel best practices, Go concurrency patterns, getting started with Deep Learning, setting up IoT data pipelines, or Android malware analysis techniques.
 * **📫 How to reach me: [rinocs92@gmail.com]
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P01Y9LQ0)
 ---
 
 ### My GitHub Stats
